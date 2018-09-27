@@ -672,3 +672,54 @@ a:hover{
 .footer-boot ul li a:hover{
 	color:#59cff9;
 }
+/*tri*/
+.devtri{
+	float: left;
+	width: 100%;
+	height: 350px;
+}
+.devtri .top{
+	width: 100%;
+	height: 150px;
+}
+.devtri .left{
+	width: 100%;
+	height: 300px;
+}
+.devtri h2{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	padding-top: 46px;
+	height: 25px;
+	color: black;
+}
+.devtri hr{
+	width: 10%;
+	height: 1px;
+	margin: auto;
+}
+.devtri p{
+	text-align: center;
+	color: black;
+}
+.devtri .left .anh{
+	width: 60%;
+	margin: auto;
+	height: 300px;
+}
+.devtri img{
+	padding: 0;
+	width: 100%;
+	height: 183px;
+}
+.devtri .left .anh .hinh{
+	float: left;
+	width: 20%;
+	height: 200px;
+}.devtri .hinh.a{
+	margin-left: 6.66%;
+}
+.devtri h4{
+	text-align: center;
+}
