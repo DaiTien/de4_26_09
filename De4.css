@@ -460,5 +460,103 @@
 	background-color: blue;
 	color: #ebc985;
 }
+/*Tuan*/
+.AboutsUs{
+	float: left;
+	width: 100%;
+	height: 620px;
+	background: #CC0066;
+}
+.AboutsUs .bx1{
+	width: 100%;
+	height: 200px;
+	background:#CC0066;
+}
+.bx1 h1{
+	margin:0;
+	text-align: center;
+	padding-top: 80px;
+	color: white;
+}
+.bx1 .tn{
+	width: 5%;
+	height: 5px;
+	background: #660033;
+	margin-top: 10px;
+	margin-left: 47.5%;
+}
+.bx1 p{
+	margin: 0;
+	padding-top: 10px;
+	color: white;
+	text-align: center;
+}
+.AboutsUs .bx2{
+	width: 100%;
+	height: 200px;
+	background: #CC0066;
+}
+.bx2 .box{
+	width: 50%;
+	height: 100%;
+	background: #CC0066;
+	float: left;
+}
+.box .boxx{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.boxx .ht{
+	width: 25%;
+	height: 40%;
+	background:#777777;
+	float: left;
+	border-radius: 50px;
+	margin-left: 60%;
+}
+.bx2 .boxx1{
+	width: 40%;
+	height: 100%;
+	float: left;
+	background: #CC0066;
+}
+.boxx1 h2{
+	margin:0;
+}
+.boxx1 a{
+	margin:0;
+	text-decoration: none;
+}
+.bx2 .box1{
+	width: 50%;
+	height: 100%;
+	background: #CC0066;
+	float: left;
+}
+.box1 .left{
+	width: 15%;
+	height: 100%;
+	background: #CC0066;
+	float: left;
+}
+.left .ht1{
+	width: 83%;
+	height: 40%;
+	background:#777777;
+	border-radius: 50px;
+}
+p{
+	color: white;
+}
+h2{
+	color: white;
+}
+a{
+	color:  #FF6600;
+}
+a:hover{
+	color: yellow;
+}
 
 
